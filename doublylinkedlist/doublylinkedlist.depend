@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1676200062 source:c:\users\danielle\desktop\code folders\codeblock\c codes\doublypushpop\doublyv3\doublylinkedlist\delete.c
+	"DLL.h"
+
+1676199509 c:\users\danielle\desktop\code folders\codeblock\c codes\doublypushpop\doublyv3\doublylinkedlist\dll.h
+	<stdio.h>
+	<stdlib.h>
+
+1676200057 source:c:\users\danielle\desktop\code folders\codeblock\c codes\doublypushpop\doublyv3\doublylinkedlist\display.c
+	"DLL.h"
+
+1676200059 source:c:\users\danielle\desktop\code folders\codeblock\c codes\doublypushpop\doublyv3\doublylinkedlist\insert.c
+	"DLL.h"
+
